@@ -1,4 +1,4 @@
-rm(list=ls()) # Cleaning the shit off
+arm(list=ls()) # Cleaning the shit off
 gc()
 
 library(geodata)
@@ -12,8 +12,8 @@ library(dismo)
 library(tidyverse)  
 library(openxlsx)  
 
-setwd("/Users/gleixner/CLUSTER/Ecocrop")
-source("Ecocrop_functions.R") 
+setwd("/Users/chemura/CLUSTER/Ecocrop")
+#source("Ecocrop_functions.R") 
 
 ####################################################
 #########         Crop information         #########
