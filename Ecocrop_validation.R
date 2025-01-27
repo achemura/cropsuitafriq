@@ -1,4 +1,4 @@
-arm(list=ls()) # Cleaning the shit off
+arm(list=ls()) # Cleaning 
 gc()
 
 library(geodata)
